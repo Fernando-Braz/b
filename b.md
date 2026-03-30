@@ -45,11 +45,11 @@ Para a criação do site, serão utilizados os conhecimentos adquiridos durante 
 
 | Etapas                     | Abril | Maio | Junho | Julho | Agosto | Setembro | Outubro | Novembro | Dezembro |
 |---------------------------|-------|--------|-------|-------|--------|----------|---------|----------|----------|
-| Pesquisa                  |       |        |       |       |        |          |         |          |          |
-| Seleção de materiais      |       |        |       |       |        |          |         |          |          |
-| Verificação e correções   |       |        |       |       |        |          |         |          |          |
-| Produção do site          |       |        |       |       |        |          |         |          |          |
-| Apresentação              |       |        |       |       |        |          |         |          |          |
+| Pesquisa                  |    X   |   X    |       |       |        |          |         |          |          |
+| Seleção de materiais      |       |        |   X    |       |        |          |         |          |          |
+| Verificação e correções   |       |        |       |   X    |        |          |         |          |          |
+| Produção do site          |       |        |       |       |    X    |    X      |         |          |          |
+| Apresentação              |       |        |       |       |        |          |    X     |          |          |
 
 ## Resultados Esperados:
 Esperamos ajudar pessoas que estão começando a usar softwares 3D para trabalhar, seja com animações ou aplicações, também esperamos ajudar profissionais a se aprofundarem ainda mais nessa área.
