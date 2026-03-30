@@ -1,4 +1,3 @@
-```markdown
 # Título do Projeto:
 Estudo e indexação de softwares 3D.
 
