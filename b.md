@@ -1,5 +1,3 @@
-Aqui está o conteúdo formatado em **Markdown**, sem alterar o texto original (apenas organização e estrutura):
-
 ```markdown
 # Título do Projeto:
 Estudo e indexação de softwares 3D.
