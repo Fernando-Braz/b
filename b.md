@@ -43,13 +43,13 @@ Para a criação do site, serão utilizados os conhecimentos adquiridos durante 
 
 ## Cronograma:
 
-| Etapas                     | Março | Abril | Maio | Junho | Julho | Agosto | Setembro | Outubro | Novembro | Dezembro |
-|---------------------------|-------|-------|------|-------|-------|--------|----------|---------|----------|----------|
-| Pesquisa                  |       |       |      |       |       |        |          |         |          |          |
-| Seleção de materiais      |       |       |      |       |       |        |          |         |          |          |
-| Verificação e correções   |       |       |      |       |       |        |          |         |          |          |
-| Produção do site          |       |       |      |       |       |        |          |         |          |          |
-| Apresentação              |       |       |      |       |       |        |          |         |          |          |
+| Etapas                     | Abril | Maio | Junho | Julho | Agosto | Setembro | Outubro | Novembro | Dezembro |
+|---------------------------|-------|--------|-------|-------|--------|----------|---------|----------|----------|
+| Pesquisa                  |       |        |       |       |        |          |         |          |          |
+| Seleção de materiais      |       |        |       |       |        |          |         |          |          |
+| Verificação e correções   |       |        |       |       |        |          |         |          |          |
+| Produção do site          |       |        |       |       |        |          |         |          |          |
+| Apresentação              |       |        |       |       |        |          |         |          |          |
 
 ## Resultados Esperados:
 Esperamos ajudar pessoas que estão começando a usar softwares 3D para trabalhar, seja com animações ou aplicações, também esperamos ajudar profissionais a se aprofundarem ainda mais nessa área.
