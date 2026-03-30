@@ -43,13 +43,13 @@ Para a criação do site, serão utilizados os conhecimentos adquiridos durante 
 
 ## Cronograma:
 
-| Etapas                     | Abril | Maio | Junho | Julho | Agosto | Setembro | Outubro | Novembro | Dezembro |
-|---------------------------|-------|--------|-------|-------|--------|----------|---------|----------|----------|
-| Pesquisa                  |   X   |    X   |       |       |        |          |         |          |          |
-| Seleção de materiais      |       |        |   X   |       |        |          |         |          |          |
-| Verificação e correções   |       |        |       |  X    |        |          |         |          |          |
-| Produção do site          |       |        |       |       |   X    |    X     |         |          |          |
-| Apresentação              |       |        |       |       |        |          |     X   |          |          |
+| Etapas                     | 06/04 | 13/04 | 20/04 | 27/04 | 04/05 | 11/05 | 18/05 | 25/05 | 01/06 | 08/06 | 15/06 | 22/06 | 29/06 | 06/07 | 13/07 | 20/07 | 27/07 | 03/08| 10/08 | 17/08 | 24/08 | 31/08 | 07/09 | 14/09 | 21/09| 28/09 | 05/10 | 12/10 | 19/10 | 26/10|
+|---------------------------|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|---|
+| Pesquisa                  |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Seleção de materiais      |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Verificação e correções   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Produção do site          |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
+| Apresentação              |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 ## Resultados Esperados:
 Esperamos ajudar pessoas que estão começando a usar softwares 3D para trabalhar, seja com animações ou aplicações, também esperamos ajudar profissionais a se aprofundarem ainda mais nessa área.
