@@ -47,9 +47,9 @@ Para a criação do site, serão utilizados os conhecimentos adquiridos durante 
 |---------------------------|-------|--------|-------|-------|--------|----------|---------|----------|----------|
 | Pesquisa                  |   X   |    X   |       |       |        |          |         |          |          |
 | Seleção de materiais      |       |        |   X   |       |        |          |         |          |          |
-| Verificação e correções   |       |        |       |  X     |        |          |         |          |          |
-| Produção do site          |       |        |       |       |   X     |    X      |         |          |          |
-| Apresentação              |       |        |       |       |        |          |      X   |          |          |
+| Verificação e correções   |       |        |       |  X    |        |          |         |          |          |
+| Produção do site          |       |        |       |       |   X    |    X     |         |          |          |
+| Apresentação              |       |        |       |       |        |          |     X   |          |          |
 
 ## Resultados Esperados:
 Esperamos ajudar pessoas que estão começando a usar softwares 3D para trabalhar, seja com animações ou aplicações, também esperamos ajudar profissionais a se aprofundarem ainda mais nessa área.
