@@ -1,5 +1,5 @@
 # Título do Projeto:
-Estudo e indexação de softwares 3D.
+Estudo e indexação de *softwares 3D*.
 
 ## Categoria:
 (    ) Ciências da Natureza e Exatas  
@@ -8,9 +8,9 @@ Estudo e indexação de softwares 3D.
 (    ) Engenharias  
 
 ## Resumo:
-Iremos realizar uma indexação de materiais sobre softwares 3D produzindo um site que conterá os conteúdos pesquisados e traduzidos se necessário. Com o intuito de auxiliar pessoas que estejam começando a realizar projetos nessa área, um exemplo sendo animadores, ou pessoas que querem se aprofundar mais sobre a área.
+Iremos realizar uma indexação de materiais sobre *softwares 3D* produzindo um site que conterá os conteúdos pesquisados e traduzidos se necessário. Com o intuito de auxiliar pessoas que estejam começando a realizar projetos nessa área, um exemplo sendo animadores, ou pessoas que querem se aprofundar mais sobre a área.
 
-Nos baseamos em pessoas que tem perguntas frequentes sobre ferramentas como Blender que é um software 3D para criar modelos, animações, dentre outros.
+Nos baseamos em pessoas que tem perguntas frequentes sobre ferramentas como Blender que é um *software 3D* para criar modelos, animações, dentre outros.
 
 Esperamos auxiliar pessoas a procurarem sobre esses softwares e materiais relacionados com o site que será produzido.
 
@@ -22,15 +22,15 @@ Renderização, orientação, organização, software
 # Plano de pesquisa
 
 ## Introdução:
-Planejamos fazer um site focado na organização e indexação de conteúdo, sejam eles sites open-source, ou até mesmo conteúdos traduzidos devido à falta de materiais em português, com a intenção de auxiliar pessoas que possam utilizar esses materiais para fazer projetos, como animações 3D, renderização de shaders em aplicações, dentre outros.
+Planejamos fazer um site focado na organização e indexação de conteúdo, sejam eles *sites open-source*, ou até mesmo conteúdos traduzidos devido à falta de materiais em português, com a intenção de auxiliar pessoas que possam utilizar esses materiais para fazer projetos, como animações *3D*, renderização de shaders em aplicações, dentre outros.
 
 ## Objetivos:
 
 ### Objetivo Geral
-Fornecer um local onde se possa encontrar materiais sobre renderização 3D bi lingual para todos que desejem conhecer sobre tal assunto
+Fornecer um local onde se possa encontrar materiais sobre renderização *3D* bi lingual para todos que desejem conhecer sobre tal assunto
 
 ### Objetivos Específicos
-Fornecer um local onde se possa encontrar materiais para aprofundamento de conhecimento sobre a renderização 3D em aplicações e animações para pessoas dessas áreas
+Fornecer um local onde se possa encontrar materiais para aprofundamento de conhecimento sobre a renderização *3D* em aplicações e animações para pessoas dessas áreas
 
 ## Metodologia:
 Inicialmente será realizado pesquisas em index, vídeos, documentos, sites, programas como o Blender e similares.
@@ -39,7 +39,7 @@ Após isso será feito uma seleção de conteúdos já vistos e um aprofundament
 
 Com a seleção de materiais realizada será verificado a ortografia e traduções desses, com a finalidade de maior compreensão de todos os interessados
 
-Para a criação do site, serão utilizados os conhecimentos adquiridos durante as aulas de programação web e a utilização dos materiais pesquisados.
+Para a criação do *site*, serão utilizados os conhecimentos adquiridos durante as aulas de programação *web* e a utilização dos materiais pesquisados.
 
 ## Cronograma:
 
@@ -52,7 +52,7 @@ Para a criação do site, serão utilizados os conhecimentos adquiridos durante 
 | Apresentação              |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |   |
 
 ## Resultados Esperados:
-Esperamos ajudar pessoas que estão começando a usar softwares 3D para trabalhar, seja com animações ou aplicações, também esperamos ajudar profissionais a se aprofundarem ainda mais nessa área.
+Esperamos ajudar pessoas que estão começando a usar *softwares 3D* para trabalhar, seja com animações ou aplicações, também esperamos ajudar profissionais a se aprofundarem ainda mais nessa área.
 
 ## Referências:
 
