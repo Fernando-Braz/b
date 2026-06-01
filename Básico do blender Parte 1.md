@@ -1,4 +1,7 @@
-﻿# Topbar do Blender 5.2 LTS
+# Básico do Blender parte 1
+Aqui será abordado em maior parte a interface do Blender, serão mencionadas coisas óbvias (tipo como salvar) e coisas que na primeira leitura pode ser meio vago
+
+# Topbar do Blender
 A **Topbar** é a barra superior do Blender. Ela reúne os principais menus de gerenciamento do programa, arquivos, renderização, janelas e ajuda.
 É o equivalente à barra de menus de programas como Word, Photoshop ou Visual Studio.
 
