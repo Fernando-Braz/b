@@ -77,8 +77,10 @@ Salva com outro nome ou em outra pasta.
 ## Save Copy
 Cria uma cópia sem alterar o arquivo atualmente aberto.
 ### Exemplo
-Você trabalha em:```Casa.blend```
+Você trabalha em:```Casa.blend``` 
+
 Usa Save Copy:```Casa_Backup.blend```
+
 Mas continua editando o arquivo original.
 ## Save Incremental (Ctrl + Alt + S)
 Uma função extremamente útil para projetos grandes.
