@@ -43,7 +43,8 @@ Ao criar um novo arquivo, o Blender limpa a cena atual e carrega um modelo padr�
 - VFX
 - Video Editing
 
-## Open (Ctrl + O)Abre um arquivo `.blend`.
+## Open (Ctrl + O)
+Abre um arquivo `.blend`.
 ### Open Recent
 Mostra os arquivos abertos recentemente. **Detalhe importante**
 Ao passar o mouse sobre um arquivo, o Blender exibe:
@@ -62,7 +63,8 @@ Você:
 - Usando **Revert**, o Blender volta exatamente para o estado do último salvamento
 ## Recover (Recuperação)
 Uma das funções mais importantes para evitar perda de trabalho.
-### Last SessionRecupera o projeto da última sessão.
+### Last Session
+Recupera o projeto da última sessão.
 Útil quando o Blender foi fechado sem querer.
 ### Auto Save
 Recupera arquivos de salvamento automático.
@@ -75,22 +77,26 @@ Salva com outro nome ou em outra pasta.
 ## Save Copy
 Cria uma cópia sem alterar o arquivo atualmente aberto.
 ### Exemplo
-Você trabalha em:```textCasa.blend```
-Usa Save Copy:```textCasa_Backup.blend```
+Você trabalha em:```Casa.blend```
+Usa Save Copy:```Casa_Backup.blend```
 Mas continua editando o arquivo original.
 ## Save Incremental (Ctrl + Alt + S)
 Uma função extremamente útil para projetos grandes.
 Cria automaticamente versões numeradas.
 ### Exemplo
-```textProjeto_01.blendProjeto_02.blendProjeto_03.blend```
+```
+Projeto_01.blend 
+Projeto_02.blend
+Projeto_03.blend
+```
 Isso permite voltar para versões anteriores caso algo dê errado.
 # Link e Append
 Essas duas opções são muito úteis se você usa vários arquivos, além de serem algo um pouco complexo de entender no início.
 ## Link
 Importa dados de outro arquivo mantendo uma conexão com ele.
 ### Como funciona
-Imagine:```textPersonagem.blend```contendo um personagem completo.
-Você usa Link em:```textCena.blend```
+Imagine:```Personagem.blend```contendo um personagem completo.
+Você usa Link em:```Cena.blend```
 O personagem aparece na cena.
 Mas:
 - Não pode ser editado diretamente.
@@ -151,12 +157,12 @@ Muito útil para evitar erros de textura perdida.
 ## Make Paths Relative
 Transforma caminhos em relativos.
 ### Exemplo
-```textTexturas\Madeira.jpg```
+```Texturas\Madeira.jpg```
 Funciona bem quando o projeto inteiro é movido para outro computador.
 ## Make Paths Absolute
 Transforma em caminho completo.
 ### Exemplo
-```textC:\Projetos\Casa\Texturas\Madeira.jpg```
+```C:\Projetos\Casa\Texturas\Madeira.jpg```
 Mais preciso, porém menos portátil.
 ## Report Missing Files
 Verifica se existem arquivos faltando.
@@ -206,15 +212,27 @@ Ferramentas gerais de edição.
 ## Menu Search
 Pesquisa menus pelo nome.
 ### Exemplo
-Digite:```textSubdivision```e o Blender mostra onde encontrar essa função.
+Digite:```Subdivision```e o Blender mostra onde encontrar essa função.
 ## Operator Search
 Pesquisa qualquer operação do Blender. 
 É como uma barra de comandos. Muito útil para usuários avançados.
 ## Batch Rename
 Permite renomear vários objetos simultaneamente.
 ### Exemplo
-Antes:```textCube Cube.001 Cube.002 Cube.003```
-Depois:```textPilar_01 Pilar_02 Pilar_03 Pilar_04```
+Antes:
+```
+Cube 
+Cube.001 
+Cube.002 
+Cube.003
+```
+Depois:
+```
+Pilar_01
+Pilar_02
+Pilar_03
+Pilar_04
+```
 ## Lock Object Modes
 Evita trocas acidentais de modo.
 ### Exemplo
