@@ -98,8 +98,10 @@ Essas duas opções são muito úteis se você usa vários arquivos, além de se
 Importa dados de outro arquivo mantendo uma conexão com ele.
 ### Como funciona
 Imagine:```Personagem.blend```contendo um personagem completo.
+
 Você usa Link em:```Cena.blend```
-O personagem aparece na cena.
+
+E o personagem aparece na cena.
 Mas:
 - Não pode ser editado diretamente.
 - Continua pertencendo ao arquivo original.
@@ -175,7 +177,8 @@ O Blender procura referências quebradas e avisa.
 Procura automaticamente os arquivos perdidos.
 ### Exemplo
 Você moveu uma pasta de texturas.
-Em vez de relinkar tudo manualmente, o Blender procura os arquivos e reconecta as referências.Essa função economiza muito tempo em projetos grandes.
+Em vez de relinkar tudo manualmente, o Blender procura os arquivos e reconecta as referências.
+Essa função economiza muito tempo em projetos grandes.
 
 # Clean Up
 Ferramentas para limpeza do projeto.
@@ -214,7 +217,7 @@ Ferramentas gerais de edição.
 ## Menu Search
 Pesquisa menus pelo nome.
 ### Exemplo
-Digite:```Subdivision```e o Blender mostra onde encontrar essa função.
+Digite:```Subdivision``` e o Blender mostra onde encontrar essa função.
 ## Operator Search
 Pesquisa qualquer operação do Blender. 
 É como uma barra de comandos. Muito útil para usuários avançados.
